@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="reactapp2.client/reactapp2.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ReactApp2.Server/ReactApp2.Server.csproj" />
+</Solution>
